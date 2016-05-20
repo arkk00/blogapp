@@ -2,7 +2,8 @@
     "name": "php_ci_book/blogapp",
     "require": {
         "cakephp/cakephp": "2.5.*",
-        "josegonzalez/cakephp-environments": "1.0.0"
+        "josegonzalez/cakephp-environments": "1.0.0",
+        "cakedc/migrations": "~2.3"
     },
     "config": {
         "vendor-dir": "Vendor"
