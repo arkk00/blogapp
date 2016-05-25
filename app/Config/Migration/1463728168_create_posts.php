@@ -19,7 +19,7 @@ class CreatePosts extends CakeMigration {
 				'posts' => array(
 					'id' => array('type' => 'integer', 'null' => false, 'default' => null, 'key' => 'primary'),
 					'title' => array('type' => 'string', 'null' => false,
-                                                'default' => null, 'length' => 255),
+						'default' => null, 'length' => 255),
 					'body' => array('type' => 'text', 'null' => true, 'default' => null),
 					'created' => array('type' => 'datetime', 'null' => false, 'default' => null),
 					'modified' => array('type' => 'datetime', 'null' => false, 'default' => null),

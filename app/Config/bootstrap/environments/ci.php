@@ -1,7 +1,7 @@
 <?php
 
 Environment::configure('ci', false, [
-	'MYSQL_DB_HOST'  => 'localhost',
+	'MYSQL_DB_HOST' => 'localhost',
 	'MYSQL_USERNAME' => 'webapp',
 	'MYSQL_PASSWORD' => 'passw0rd',
 	'MYSQL_DB_NAME' => 'test_blog',
