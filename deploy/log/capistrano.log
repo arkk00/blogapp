@@ -1,0 +1,310 @@
+# Logfile created on 2016-05-26 02:30:44 +0000 by logger.rb/41954
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-05-26 02:30:44 +0000 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [1110cca8] Running /usr/bin/env sudo mkdir -p /var/www/application as vagrant@192.168.33.200
+  INFO [1110cca8] Finished in 0.392 seconds with exit status 0 (successful).
+  INFO [53ed0701] Running /usr/bin/env sudo chown vagrant:vagrant /var/www/application as vagrant@192.168.33.200
+  INFO [53ed0701] Finished in 0.042 seconds with exit status 0 (successful).
+  INFO [928247bf] Running /usr/bin/env mkdir -p /tmp/blogapp/ as vagrant@192.168.33.200
+  INFO [928247bf] Finished in 0.005 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/blogapp/git-ssh.sh 100.0%
+  INFO [ee86d3aa] Running /usr/bin/env chmod +rx /tmp/blogapp/git-ssh.sh as vagrant@192.168.33.200
+  INFO [ee86d3aa] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [2d8062bb] Running /usr/bin/env git ls-remote --heads git@github.com:arkk00/blogapp.git as vagrant@192.168.33.200
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-05-26 02:32:55 +0000 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [272f4b58] Running /usr/bin/env sudo mkdir -p /var/www/application as vagrant@192.168.33.200
+  INFO [272f4b58] Finished in 0.140 seconds with exit status 0 (successful).
+  INFO [e48314fe] Running /usr/bin/env sudo chown vagrant:vagrant /var/www/application as vagrant@192.168.33.200
+  INFO [e48314fe] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [ecefd9ba] Running /usr/bin/env mkdir -p /tmp/blogapp/ as vagrant@192.168.33.200
+  INFO [ecefd9ba] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/blogapp/git-ssh.sh 100.0%
+  INFO [48e27c73] Running /usr/bin/env chmod +rx /tmp/blogapp/git-ssh.sh as vagrant@192.168.33.200
+  INFO [48e27c73] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO [7d7c5268] Running /usr/bin/env git ls-remote --heads git@github.com:arkk00/blogapp.git as vagrant@192.168.33.200
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-05-26 02:37:15 +0000 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [27a25a1b] Running /usr/bin/env sudo mkdir -p /var/www/application as vagrant@192.168.33.200
+  INFO [27a25a1b] Finished in 0.139 seconds with exit status 0 (successful).
+  INFO [2876a7b3] Running /usr/bin/env sudo chown vagrant:vagrant /var/www/application as vagrant@192.168.33.200
+  INFO [2876a7b3] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [e1edf357] Running /usr/bin/env mkdir -p /tmp/blogapp/ as vagrant@192.168.33.200
+  INFO [e1edf357] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/blogapp/git-ssh.sh 100.0%
+  INFO [fe7c4eb0] Running /usr/bin/env chmod +rx /tmp/blogapp/git-ssh.sh as vagrant@192.168.33.200
+  INFO [fe7c4eb0] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [8eab14e5] Running /usr/bin/env git ls-remote --heads git@github.com:arkk00/blogapp.git as vagrant@192.168.33.200
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-05-26 02:42:21 +0000 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [e22810cf] Running /usr/bin/env sudo mkdir -p /var/www/application as vagrant@192.168.33.200
+  INFO [e22810cf] Finished in 0.133 seconds with exit status 0 (successful).
+  INFO [d14a7325] Running /usr/bin/env sudo chown vagrant:vagrant /var/www/application as vagrant@192.168.33.200
+  INFO [d14a7325] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [5c9ff06f] Running /usr/bin/env mkdir -p /tmp/blogapp/ as vagrant@192.168.33.200
+  INFO [5c9ff06f] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/blogapp/git-ssh.sh 100.0%
+  INFO [f855fbc1] Running /usr/bin/env chmod +rx /tmp/blogapp/git-ssh.sh as vagrant@192.168.33.200
+  INFO [f855fbc1] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [13da5a4e] Running /usr/bin/env git ls-remote --heads git@github.com:arkk00/blogapp.git as vagrant@192.168.33.200
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-05-26 02:49:56 +0000 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [0156d189] Running /usr/bin/env sudo mkdir -p /var/www/application as vagrant@192.168.33.200
+  INFO [0156d189] Finished in 0.139 seconds with exit status 0 (successful).
+  INFO [11957797] Running /usr/bin/env sudo chown vagrant:vagrant /var/www/application as vagrant@192.168.33.200
+  INFO [11957797] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [31ae5de9] Running /usr/bin/env mkdir -p /tmp/blogapp/ as vagrant@192.168.33.200
+  INFO [31ae5de9] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/blogapp/git-ssh.sh 100.0%
+  INFO [2b4b183d] Running /usr/bin/env chmod +rx /tmp/blogapp/git-ssh.sh as vagrant@192.168.33.200
+  INFO [2b4b183d] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO [f7ae5144] Running /usr/bin/env git ls-remote --heads git@github.com:arkk00/blogapp.git as vagrant@192.168.33.200
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-05-26 04:22:28 +0000 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [29b5aa91] Running /usr/bin/env sudo mkdir -p /var/www/application as vagrant@192.168.33.200
+  INFO [29b5aa91] Finished in 0.191 seconds with exit status 0 (successful).
+  INFO [94459d50] Running /usr/bin/env sudo chown vagrant:vagrant /var/www/application as vagrant@192.168.33.200
+  INFO [94459d50] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [aa903030] Running /usr/bin/env mkdir -p /tmp/blogapp/ as vagrant@192.168.33.200
+  INFO [aa903030] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/blogapp/git-ssh.sh 100.0%
+  INFO [6e1f31a4] Running /usr/bin/env chmod +rx /tmp/blogapp/git-ssh.sh as vagrant@192.168.33.200
+  INFO [6e1f31a4] Finished in 0.003 seconds with exit status 0 (successful).
+  INFO [741039c5] Running /usr/bin/env git ls-remote --heads git@github.com:arkk00/blogapp.git as vagrant@192.168.33.200
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-05-26 04:24:45 +0000 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [351a1dd1] Running /usr/bin/env sudo mkdir -p /var/www/application as vagrant@192.168.33.200
+  INFO [351a1dd1] Finished in 0.110 seconds with exit status 0 (successful).
+  INFO [69a890f1] Running /usr/bin/env sudo chown vagrant:vagrant /var/www/application as vagrant@192.168.33.200
+  INFO [69a890f1] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [d30be672] Running /usr/bin/env mkdir -p /tmp/blogapp/ as vagrant@192.168.33.200
+  INFO [d30be672] Finished in 0.003 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/blogapp/git-ssh.sh 100.0%
+  INFO [e785fae8] Running /usr/bin/env chmod +rx /tmp/blogapp/git-ssh.sh as vagrant@192.168.33.200
+  INFO [e785fae8] Finished in 0.003 seconds with exit status 0 (successful).
+  INFO [155d46b5] Running /usr/bin/env git ls-remote --heads git@github.com:arkk00/blogapp.git as vagrant@192.168.33.200
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-05-26 04:28:05 +0000 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [c7752b8f] Running /usr/bin/env sudo mkdir -p /var/www/application as vagrant@192.168.33.200
+  INFO [c7752b8f] Finished in 0.111 seconds with exit status 0 (successful).
+  INFO [062dfed0] Running /usr/bin/env sudo chown vagrant:vagrant /var/www/application as vagrant@192.168.33.200
+  INFO [062dfed0] Finished in 0.008 seconds with exit status 0 (successful).
+  INFO [7de07930] Running /usr/bin/env mkdir -p /tmp/blogapp/ as vagrant@192.168.33.200
+  INFO [7de07930] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/blogapp/git-ssh.sh 100.0%
+  INFO [9eec7da5] Running /usr/bin/env chmod +rx /tmp/blogapp/git-ssh.sh as vagrant@192.168.33.200
+  INFO [9eec7da5] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO [d9b2fac1] Running /usr/bin/env git ls-remote --heads git@github.com:arkk00/blogapp.git as vagrant@192.168.33.200
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-05-26 04:45:03 +0000 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [36ffb4f0] Running /usr/bin/env sudo mkdir -p /var/www/application as vagrant@192.168.33.200
+  INFO [36ffb4f0] Finished in 0.114 seconds with exit status 0 (successful).
+  INFO [3993d1bc] Running /usr/bin/env sudo chown vagrant:vagrant /var/www/application as vagrant@192.168.33.200
+  INFO [3993d1bc] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [45916c8d] Running /usr/bin/env mkdir -p /tmp/blogapp/ as vagrant@192.168.33.200
+  INFO [45916c8d] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/blogapp/git-ssh.sh 100.0%
+  INFO [ea11d835] Running /usr/bin/env chmod +rx /tmp/blogapp/git-ssh.sh as vagrant@192.168.33.200
+  INFO [ea11d835] Finished in 0.003 seconds with exit status 0 (successful).
+  INFO [b30d6b0c] Running /usr/bin/env git ls-remote --heads git@github.com:arkk00/blogapp.git as vagrant@192.168.33.200
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-05-26 04:50:16 +0000 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [7b9d180c] Running /usr/bin/env sudo mkdir -p /var/www/application as vagrant@192.168.33.200
+  INFO [7b9d180c] Finished in 0.113 seconds with exit status 0 (successful).
+  INFO [8387fb64] Running /usr/bin/env sudo chown vagrant:vagrant /var/www/application as vagrant@192.168.33.200
+  INFO [8387fb64] Finished in 0.008 seconds with exit status 0 (successful).
+  INFO [6f780007] Running /usr/bin/env mkdir -p /tmp/blogapp/ as vagrant@192.168.33.200
+  INFO [6f780007] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/blogapp/git-ssh.sh 100.0%
+  INFO [624db1eb] Running /usr/bin/env chmod +rx /tmp/blogapp/git-ssh.sh as vagrant@192.168.33.200
+  INFO [624db1eb] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO [330926aa] Running /usr/bin/env git ls-remote --heads git@github.com:arkk00/blogapp.git as vagrant@192.168.33.200
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-05-26 05:47:57 +0000 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [66c56806] Running /usr/bin/env sudo mkdir -p /var/www/application as vagrant@192.168.33.200
+  INFO [66c56806] Finished in 0.126 seconds with exit status 0 (successful).
+  INFO [fa7b88c5] Running /usr/bin/env sudo chown vagrant:vagrant /var/www/application as vagrant@192.168.33.200
+  INFO [fa7b88c5] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [38fcba83] Running /usr/bin/env mkdir -p /tmp/blogapp/ as vagrant@192.168.33.200
+  INFO [38fcba83] Finished in 0.005 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/blogapp/git-ssh.sh 100.0%
+  INFO [3ea54f7f] Running /usr/bin/env chmod +rx /tmp/blogapp/git-ssh.sh as vagrant@192.168.33.200
+  INFO [3ea54f7f] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [f6d1ff68] Running /usr/bin/env git ls-remote --heads git@github.com:arkk00/blogapp.git as vagrant@192.168.33.200
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-05-26 05:51:30 +0000 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [8cb05a88] Running /usr/bin/env sudo mkdir -p /var/www/application as vagrant@192.168.33.200
+  INFO [8cb05a88] Finished in 0.146 seconds with exit status 0 (successful).
+  INFO [742aebb3] Running /usr/bin/env sudo chown vagrant:vagrant /var/www/application as vagrant@192.168.33.200
+  INFO [742aebb3] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [9a43d2e1] Running /usr/bin/env mkdir -p /tmp/blogapp/ as vagrant@192.168.33.200
+  INFO [9a43d2e1] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/blogapp/git-ssh.sh 100.0%
+  INFO [3fc035a1] Running /usr/bin/env chmod +rx /tmp/blogapp/git-ssh.sh as vagrant@192.168.33.200
+  INFO [3fc035a1] Finished in 0.003 seconds with exit status 0 (successful).
+  INFO [647ad2e5] Running /usr/bin/env git ls-remote --heads git@github.com:arkk00/blogapp.git as vagrant@192.168.33.200
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-05-26 05:58:43 +0000 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [e0e6d4a8] Running /usr/bin/env sudo mkdir -p /var/www/application as vagrant@192.168.33.200
+  INFO [e0e6d4a8] Finished in 0.109 seconds with exit status 0 (successful).
+  INFO [1b0218e0] Running /usr/bin/env sudo chown vagrant:vagrant /var/www/application as vagrant@192.168.33.200
+  INFO [1b0218e0] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [8eb9a33b] Running /usr/bin/env mkdir -p /tmp/blogapp/ as vagrant@192.168.33.200
+  INFO [8eb9a33b] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/blogapp/git-ssh.sh 100.0%
+  INFO [f442057c] Running /usr/bin/env chmod +rx /tmp/blogapp/git-ssh.sh as vagrant@192.168.33.200
+  INFO [f442057c] Finished in 0.006 seconds with exit status 0 (successful).
+  INFO [77d21318] Running /usr/bin/env git ls-remote --heads git@github.com:arkk00/blogapp.git as vagrant@192.168.33.200
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-05-26 06:06:52 +0000 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [d91deee2] Running /usr/bin/env sudo mkdir -p /var/www/application as vagrant@192.168.33.200
+  INFO [d91deee2] Finished in 0.137 seconds with exit status 0 (successful).
+  INFO [50526f8d] Running /usr/bin/env sudo chown vagrant:vagrant /var/www/application as vagrant@192.168.33.200
+  INFO [50526f8d] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [4cef7f77] Running /usr/bin/env mkdir -p /tmp/blogapp/ as vagrant@192.168.33.200
+  INFO [4cef7f77] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/blogapp/git-ssh.sh 100.0%
+  INFO [2986683d] Running /usr/bin/env chmod +rx /tmp/blogapp/git-ssh.sh as vagrant@192.168.33.200
+  INFO [2986683d] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO [1f4bd00a] Running /usr/bin/env git ls-remote --heads git@github.com:arkk00/blogapp.git as vagrant@192.168.33.200
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-05-26 06:16:05 +0000 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [7a914af2] Running /usr/bin/env sudo mkdir -p /var/www/application as vagrant@192.168.33.200
+  INFO [7a914af2] Finished in 0.137 seconds with exit status 0 (successful).
+  INFO [8ccf5103] Running /usr/bin/env sudo chown vagrant:vagrant /var/www/application as vagrant@192.168.33.200
+  INFO [8ccf5103] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [7dbaeab5] Running /usr/bin/env mkdir -p /tmp/blogapp/ as vagrant@192.168.33.200
+  INFO [7dbaeab5] Finished in 0.005 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/blogapp/git-ssh.sh 100.0%
+  INFO [263f7d7a] Running /usr/bin/env chmod +rx /tmp/blogapp/git-ssh.sh as vagrant@192.168.33.200
+  INFO [263f7d7a] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO [ee70a526] Running /usr/bin/env git ls-remote --heads git@github.com:arkk00/blogapp.git as vagrant@192.168.33.200
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-05-26 06:32:29 +0000 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [3e47c318] Running /usr/bin/env sudo mkdir -p /var/www/application as vagrant@192.168.33.200
+  INFO [3e47c318] Finished in 0.133 seconds with exit status 0 (successful).
+  INFO [d07ddb14] Running /usr/bin/env sudo chown vagrant:vagrant /var/www/application as vagrant@192.168.33.200
+  INFO [d07ddb14] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [ef75ff85] Running /usr/bin/env mkdir -p /tmp/blogapp/ as vagrant@192.168.33.200
+  INFO [ef75ff85] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/blogapp/git-ssh.sh 100.0%
+  INFO [afcc370a] Running /usr/bin/env chmod +rx /tmp/blogapp/git-ssh.sh as vagrant@192.168.33.200
+  INFO [afcc370a] Finished in 0.003 seconds with exit status 0 (successful).
+  INFO [21176309] Running /usr/bin/env git ls-remote --heads git@github.com:arkk00/blogapp.git as vagrant@192.168.33.200
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-05-26 06:36:43 +0000 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [1eccba18] Running /usr/bin/env sudo mkdir -p /var/www/application as vagrant@192.168.33.200
+  INFO [1eccba18] Finished in 0.203 seconds with exit status 0 (successful).
+  INFO [248038a7] Running /usr/bin/env sudo chown vagrant:vagrant /var/www/application as vagrant@192.168.33.200
+  INFO [248038a7] Finished in 0.014 seconds with exit status 0 (successful).
+  INFO [3afca5e4] Running /usr/bin/env mkdir -p /tmp/blogapp/ as vagrant@192.168.33.200
+  INFO [3afca5e4] Finished in 0.006 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/blogapp/git-ssh.sh 100.0%
+  INFO [a6ba302a] Running /usr/bin/env chmod +rx /tmp/blogapp/git-ssh.sh as vagrant@192.168.33.200
+  INFO [a6ba302a] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO [a43785fc] Running /usr/bin/env git ls-remote --heads git@github.com:arkk00/blogapp.git as vagrant@192.168.33.200
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-05-26 07:11:43 +0000 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [945a3597] Running /usr/bin/env sudo mkdir -p /var/www/application as vagrant@192.168.33.200
+  INFO [945a3597] Finished in 0.379 seconds with exit status 0 (successful).
+  INFO [35f7766f] Running /usr/bin/env sudo chown vagrant:vagrant /var/www/application as vagrant@192.168.33.200
+  INFO [35f7766f] Finished in 0.026 seconds with exit status 0 (successful).
+  INFO [703bb59e] Running /usr/bin/env mkdir -p /tmp/blogapp/ as vagrant@192.168.33.200
+  INFO [703bb59e] Finished in 0.008 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/blogapp/git-ssh.sh 100.0%
+  INFO [106bdf14] Running /usr/bin/env chmod +rx /tmp/blogapp/git-ssh.sh as vagrant@192.168.33.200
+  INFO [106bdf14] Finished in 0.008 seconds with exit status 0 (successful).
+  INFO [80993618] Running /usr/bin/env git ls-remote --heads git@github.com:arkk00/blogapp.git as vagrant@192.168.33.200
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-05-26 08:40:06 +0000 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [c8bf95fe] Running /usr/bin/env sudo mkdir -p /var/www/application as vagrant@192.168.33.200
+  INFO [c8bf95fe] Finished in 0.135 seconds with exit status 0 (successful).
+  INFO [389422c3] Running /usr/bin/env sudo chown vagrant:vagrant /var/www/application as vagrant@192.168.33.200
+  INFO [389422c3] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [9d8e4df0] Running /usr/bin/env mkdir -p /tmp/blogapp/ as vagrant@192.168.33.200
+  INFO [9d8e4df0] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/blogapp/git-ssh.sh 100.0%
+  INFO [0f9d2a2f] Running /usr/bin/env chmod +rx /tmp/blogapp/git-ssh.sh as vagrant@192.168.33.200
+  INFO [0f9d2a2f] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [eb78b7f9] Running /usr/bin/env git ls-remote --heads git@github.com:arkk00/blogapp.git as vagrant@192.168.33.200
+  INFO [eb78b7f9] Finished in 3.529 seconds with exit status 0 (successful).
+  INFO [336dd73c] Running /usr/bin/env mkdir -p /var/www/application/shared /var/www/application/releases as vagrant@192.168.33.200
+  INFO [336dd73c] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [03a580db] Running /usr/bin/env mkdir -p /var/www/application/shared/tmp/cache /var/www/application/shared/tmp/cache/models /var/www/application/shared/tmp/cache/persistent /var/www/application/shared/tmp/cache/views /var/www/application/shared/tmp/logs /var/www/application/shared/tmp/sessions /var/www/application/shared/tmp/tests as vagrant@192.168.33.200
+  INFO [03a580db] Finished in 0.009 seconds with exit status 0 (successful).
+  INFO [0b504940] Running /usr/bin/env sudo find /var/www/application/shared -type d -print | xargs chmod 777 as vagrant@192.168.33.200
+  INFO [0b504940] Finished in 0.010 seconds with exit status 0 (successful).
+  INFO [428d2fac] Running /usr/bin/env mkdir -p /var/www/application/shared as vagrant@192.168.33.200
+  INFO [428d2fac] Finished in 0.003 seconds with exit status 0 (successful).
+  INFO Uploading ./config/deploy/production.php 100.0%
+  INFO [c87ea938] Running /usr/bin/env git clone --mirror git@github.com:arkk00/blogapp.git /var/www/application/repo as vagrant@192.168.33.200
+  INFO [c87ea938] Finished in 8.083 seconds with exit status 0 (successful).
+  INFO [75c6fda1] Running /usr/bin/env git remote update --prune as vagrant@192.168.33.200
+  INFO [75c6fda1] Finished in 3.091 seconds with exit status 0 (successful).
+  INFO [95eb277a] Running /usr/bin/env mkdir -p /var/www/application/releases/20160526084010 as vagrant@192.168.33.200
+  INFO [95eb277a] Finished in 0.008 seconds with exit status 0 (successful).
+  INFO [a99b1d77] Running /usr/bin/env git archive master | tar -x -f - -C /var/www/application/releases/20160526084010 as vagrant@192.168.33.200
+  INFO [a99b1d77] Finished in 0.036 seconds with exit status 0 (successful).
+  INFO [a22d5efc] Running /usr/bin/env echo "5b215f8d20fb428b03df9b8ee5bcddfb152c8854" >> REVISION as vagrant@192.168.33.200
+  INFO [a22d5efc] Finished in 0.038 seconds with exit status 0 (successful).
+  INFO [03e596e8] Running /usr/bin/env ln -s /var/www/application/shared/production.php /var/www/application/releases/20160526084010/app/Config/bootstrap/environments/production.php as vagrant@192.168.33.200
+  INFO [03e596e8] Finished in 0.009 seconds with exit status 0 (successful).
+  INFO [31988568] Running /usr/bin/env sudo rm -rf /var/www/application/releases/20160526084010/app/tmp as vagrant@192.168.33.200
+  INFO [31988568] Finished in 0.009 seconds with exit status 0 (successful).
+  INFO [9c0b34c8] Running /usr/bin/env ln -s /var/www/application/shared/tmp /var/www/application/releases/20160526084010/app/tmp as vagrant@192.168.33.200
+  INFO [9c0b34c8] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO [967186a2] Running /usr/bin/env composer --working-dir=/var/www/application/releases/20160526084010/app --no-dev install as vagrant@192.168.33.200
+  INFO [967186a2] Finished in 3.582 seconds with exit status 0 (successful).
+  INFO [25dfbb25] Running env CAKE_ENV=production /var/www/application/releases/20160526084010/app/Console/cake Migrations.migration run all -p as vagrant@192.168.33.200
+  INFO [25dfbb25] Finished in 0.852 seconds with exit status 0 (successful).
+  INFO [fc722db0] Running /usr/bin/env ln -s /var/www/application/releases/20160526084010 /var/www/application/releases/current as vagrant@192.168.33.200
+  INFO [fc722db0] Finished in 0.003 seconds with exit status 0 (successful).
+  INFO [5e235b43] Running /usr/bin/env mv /var/www/application/releases/current /var/www/application as vagrant@192.168.33.200
+  INFO [5e235b43] Finished in 0.005 seconds with exit status 0 (successful).
+  INFO [27d2fe85] Running /usr/bin/env sudo service php5-fpm restart as vagrant@192.168.33.200
+  INFO [27d2fe85] Finished in 0.688 seconds with exit status 0 (successful).
+  INFO [15b1e7b2] Running /usr/bin/env echo "Branch master (at 5b215f8d20fb428b03df9b8ee5bcddfb152c8854) deployed as release 20160526084010 by vagrant" >> /var/www/application/revisions.log as vagrant@192.168.33.200
+  INFO [15b1e7b2] Finished in 0.003 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-05-26 09:25:29 +0000 cap production deploy:rollback
+  INFO ---------------------------------------------------------------------------
+  INFO [27c9dc38] Running /usr/bin/env sudo mkdir -p /var/www/application as vagrant@192.168.33.200
+  INFO [27c9dc38] Finished in 0.140 seconds with exit status 0 (successful).
+  INFO [712464c3] Running /usr/bin/env sudo chown vagrant:vagrant /var/www/application as vagrant@192.168.33.200
+  INFO [712464c3] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [9637b309] Running /usr/bin/env mkdir -p /tmp/blogapp/ as vagrant@192.168.33.200
+  INFO [9637b309] Finished in 0.005 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/blogapp/git-ssh.sh 100.0%
+  INFO [97a6a345] Running /usr/bin/env chmod +rx /tmp/blogapp/git-ssh.sh as vagrant@192.168.33.200
+  INFO [97a6a345] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO [8a3d8ee7] Running /usr/bin/env git ls-remote --heads git@github.com:arkk00/blogapp.git as vagrant@192.168.33.200
+  INFO [8a3d8ee7] Finished in 2.828 seconds with exit status 0 (successful).
+  INFO [45af43be] Running /usr/bin/env mkdir -p /var/www/application/shared /var/www/application/releases as vagrant@192.168.33.200
+  INFO [45af43be] Finished in 0.049 seconds with exit status 0 (successful).
+  INFO [0dee9d97] Running /usr/bin/env mkdir -p /var/www/application/shared/tmp/cache /var/www/application/shared/tmp/cache/models /var/www/application/shared/tmp/cache/persistent /var/www/application/shared/tmp/cache/views /var/www/application/shared/tmp/logs /var/www/application/shared/tmp/sessions /var/www/application/shared/tmp/tests as vagrant@192.168.33.200
+  INFO [0dee9d97] Finished in 0.008 seconds with exit status 0 (successful).
+  INFO [0b72722a] Running /usr/bin/env sudo find /var/www/application/shared -type d -print | xargs chmod 777 as vagrant@192.168.33.200
+  INFO [0b72722a] Finished in 0.145 seconds with exit status 0 (successful).
+  INFO [84950f13] Running /usr/bin/env mkdir -p /var/www/application/shared as vagrant@192.168.33.200
+  INFO [84950f13] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO Uploading ./config/deploy/production.php 100.0%
+ ERROR There are no older releases to rollback to
