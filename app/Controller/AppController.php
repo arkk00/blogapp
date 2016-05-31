@@ -31,7 +31,7 @@ class AppController extends Controller {
 		$this->Auth->loginAction = ['controller' => 'app_users', 'action' => 'login'];
 		$this->Auth->loginRedirect = $this->Session->read('Auth.redirect');
 		$this->Auth->logoutRedirect = '/';
-		$this->Auth->authError = __d('users', '‚±‚ÌURL‚ÉƒAƒNƒZƒX‚·‚é‚É‚ÍƒƒOƒCƒ“‚ª•K—v‚Å‚·');
+		$this->Auth->authError = __d('users', 'ã“ã®URLã«ã‚¢ã‚¯ã‚»ã‚¹ã™ã‚‹ã«ã¯ãƒ­ã‚°ã‚¤ãƒ³ãŒå¿…è¦ã§ã™');
 		$this->Auth->autoRedirect = true;
 		$this->Auth->userModel = 'User';
 		$this->Auth->userScope = ['OR' => ['AND' => ['User.active' => 1, 'User.email_verified' => 1]]];
