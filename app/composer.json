@@ -5,7 +5,10 @@
         "josegonzalez/cakephp-environments": "1.0.0",
         "cakedc/migrations": "~2.3",
         "fzaninotto/faker": "1.4.*",
-        "slywalker/boost_cake": "*"
+        "slywalker/boost_cake": "*",
+        "cakedc/users": "2.*",
+        "cakedc/utils": "*",
+        "cakedc/search": "*"
     },
     "config": {
         "vendor-dir": "Vendor"

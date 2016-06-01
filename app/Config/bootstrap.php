@@ -64,6 +64,9 @@ include dirname(__FILE__) . DS . 'bootstrap' . DS . 'environments.php';
  */
 CakePlugin::load('Migrations');
 CakePlugin::load('BoostCake');
+CakePlugin::load('Users', array('routes' => null));
+CakePlugin::load('Utils');
+CakePlugin::load('Search');
 
 /**
  * You can attach event listeners to the request lifecycle as Dispatcher Filter . By default CakePHP bundles two filters:

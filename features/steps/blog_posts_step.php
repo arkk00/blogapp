@@ -5,21 +5,31 @@ use Behat\Behat\Context\Step\Given,
 App::uses('Fabricate', 'Fabricate.Lib');
 
 $steps->Given('/^"([^"]*)" としてログインしている$/', function($world, $username) {
+	$user = $world->getUser($username);
+
+	return [
+		new Given('"' . Router::url(['controller' => 'app_users', 'action' => 'login']) . '" を表示している'),
+		new When('"Eメール" フィールドに "' . $user['email'] . '" と入力する'),
+		new When('"パスワード" フィールドに "' . $user['password'] . '" と入力する'),
+		new When('"ログイン" ボタンをクリックする'),
+	];
 });
 
 $steps->Given('/^"([^"]*)" の記事が (\d+) 件登録されている$/', function($world, $username, $num) {
-	Fabricate::create('Post', $num, function($data, $world) {
+	$user = $world->getUser($username);
+	Fabricate::create('Post', $num, function($data, $world) use($user) {
 		return [
 			'title' => $world->sequence('title', function($i) {
 				return "タイトル{$i}";
 			}),
+			'author_id' => $user['id'],
 		];
 	});
 });
 
 $steps->When('/^自分の投稿を一覧表示する$/', function($world) {
 	return [
-		new When('"' . Router::url(['controller' => 'posts', 'action' => 'index', 'user_account' => 'hoge']) . '" を表示している'),
+		new When('"' . Router::url(['controller' => 'posts', 'action' => 'index', 'user_account' => 'testuser']) . '" を表示している'),
 	];
 });
 
